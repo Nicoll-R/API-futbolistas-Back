@@ -1,2 +1,5 @@
 # API-futbolistas-Back
-Se recopila y muestra en pantalla datos ingresados en formato JSON
+- Se asignó el proyecto en server.port=4000
+  Asegurarse de cambiar el puerto en Application.properties
+- CrossOrigin principal en: controllers => UserController, línea 15
+  Asegurarse de cambiar (origins = "http://xxx") por el puerto que se use en el Front.
