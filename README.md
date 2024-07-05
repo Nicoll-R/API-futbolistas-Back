@@ -11,7 +11,7 @@
 {
 			"firstName" : "xxx" 
 			"lastName"  : "xxx" 
-  	"dated"     : "(yyyy-mm-dd)" 
+  	"dated"     : "yyyy-mm-dd" 
  		"charact"   : "xxx" 
  		"position"  : {
 								"name"   : "xxx" 
